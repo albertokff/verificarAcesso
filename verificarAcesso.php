@@ -8,6 +8,6 @@
             echo "Acesso negado. Autorização necessária.";
     }
 
-    verificarAcesso(18, true);
+    verificarAcesso(20, true);
 
 ?>
